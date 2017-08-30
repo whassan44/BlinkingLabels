@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BlinkingLabel'
-  s.version          = '1.0'
+  s.version          = '0.1.0'
   s.summary          = 'Testing project for common login.'
 
 # This description is used to generate tags and improve search results.
